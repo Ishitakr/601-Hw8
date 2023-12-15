@@ -8,6 +8,8 @@ editor: visual
 
 The last movie I saw was Barbie
 
+My lunch was pizza
+
 ```{r}
 1 + 1
 ```
